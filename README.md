@@ -57,6 +57,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Bhatt-CS&theme=tokyonight"/>
 </p>
 
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahul-Bhatt-CS/Rahul-Bhatt-CS/output/snake.svg" />
+</p>
+
 ---
 
 ## 🔗 Connect With Me
