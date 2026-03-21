@@ -88,6 +88,6 @@
 
 ## ⚡ Philosophy
 
-> *"Consistency beats intensity. Build daily, improve daily."*
+> *"Delay is the Deadliest form of Denial"*
 
 ---
