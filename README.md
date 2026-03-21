@@ -42,22 +42,11 @@
 
 ---
 
-## 📂 What You'll Find Here
+## 💻 LeetCode Stats
 
-🔹 **DSA Repository**
-
-* Structured solutions (Arrays, Trees, Graphs, DP)
-* Optimized approaches + complexity analysis
-
-🔹 **Backend Projects**
-
-* REST APIs using Spring Boot
-* Clean architecture (Controller → Service → Repository)
-
-🔹 **GATE Notes**
-
-* OS, DBMS, CN, TOC notes
-* PYQs + concept clarity
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rbhatt_cs?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
 
 ---
 
@@ -66,14 +55,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Bhatt-CS&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Bhatt-CS&theme=tokyonight"/>
-</p>
-
----
-
-## 💻 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rbhatt_cs?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
