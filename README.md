@@ -60,7 +60,7 @@
 ## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rahul-Bhatt-CS/Rahul-Bhatt-CS/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Rahul-Bhatt-CS/Rahul-Bhatt-CS/output/snake.svg" />
 </p>
 
 ---
